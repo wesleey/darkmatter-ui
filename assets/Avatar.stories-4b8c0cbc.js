@@ -1,0 +1,2 @@
+import{A as t}from"./index-cfb3232b.js";import"./index-0806a333.js";import"./iframe-ad6a50bd.js";import"./index-05a5a31d.js";import"./index-c12db9c2.js";import"./jsx-runtime-d3e7712b.js";const l={title:"Data display/Avatar",component:t,args:{src:"https://github.com/wesleey.png",alt:"Wesley Barbosa"},argTypes:{src:{control:"text"}}},p={},c={args:{src:void 0}},m=["Default","WithFallback"];export{p as Default,c as WithFallback,m as __namedExportsOrder,l as default};
+//# sourceMappingURL=Avatar.stories-4b8c0cbc.js.map
