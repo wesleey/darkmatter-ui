@@ -1,0 +1,4 @@
+{
+  "extends": "@darkmatter-ui/tsconfig/react.json",
+  "include": ["src"]
+}

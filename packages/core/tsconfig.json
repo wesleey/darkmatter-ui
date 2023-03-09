@@ -1,0 +1,4 @@
+{
+  "extends": "@darkmatter-ui/tsconfig/base.json",
+  "include": ["src"]
+}
